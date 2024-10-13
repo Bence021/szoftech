@@ -1,0 +1,2 @@
+# szoftech
+tanulási segédanyag
